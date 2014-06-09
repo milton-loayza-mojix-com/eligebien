@@ -4,13 +4,11 @@
 	 http://css-tricks.com
 */
 
-* { margin: 0; padding: 0; }
-html, body { height: 100%; overflow: hidden; background: #eee; }
-body { font: 14px Georgia, serif; }
+
 #page-wrap { width: 960px; padding: 0 0 0 15px; margin: 0 auto; overflow: hidden; height: 100%; }
 
-.info-col { float: left; width: 132px; height: 100%; padding: 50px 0 0 0; }
-.info-col h2 { text-align: center; font-weight: normal; padding: 25px 0; }
+.info-col1 { float: left; width: 132px; height: 100%; padding: 50px 0 0 0; }
+.info-col1 h2 { text-align: center; font-weight: normal; padding: 25px 0; }
 
 .image { height: 100px; text-indent: -9999px; display: block; border-right: 1px solid white; }
 
